@@ -1286,6 +1286,51 @@ section.lazy-placeholder:after {
     height: auto !important;
   }
 }
+.cid-rIa9qaOpjm {
+  background: #0f7699;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #cc2952, #0f7699);
+}
+.cid-rIa9qaOpjm .image-block {
+  margin: auto;
+}
+.cid-rIa9qaOpjm figcaption {
+  position: relative;
+}
+.cid-rIa9qaOpjm figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rIa9qaOpjm .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rIa9oEDRZm {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-rIa9oEDRZm .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rIa9oEDRZm .section-text {
+  padding: 2rem 0;
+}
+.cid-rIa9oEDRZm .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rIa9oEDRZm .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rIa8u43z6a {
   background: #0f7699;
   padding-top: 60px;
@@ -1310,6 +1355,29 @@ section.lazy-placeholder:after {
 }
 .cid-rIa8u43z6a DIV {
   color: #cc2952;
+}
+.cid-rIa9keVYRT {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-rIa9keVYRT .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rIa9keVYRT .section-text {
+  padding: 2rem 0;
+}
+.cid-rIa9keVYRT .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rIa9keVYRT .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-rIa6Lu9dyO {
   background: #0f7699;
@@ -1336,6 +1404,29 @@ section.lazy-placeholder:after {
 .cid-rIa6Lu9dyO DIV {
   color: #cc2952;
 }
+.cid-rIa9lrQwMP {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-rIa9lrQwMP .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rIa9lrQwMP .section-text {
+  padding: 2rem 0;
+}
+.cid-rIa9lrQwMP .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rIa9lrQwMP .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rIa6KLgUoD {
   background: #0f7699;
   padding-top: 60px;
@@ -1360,4 +1451,117 @@ section.lazy-placeholder:after {
 }
 .cid-rIa6KLgUoD DIV {
   color: #cc2952;
+}
+.cid-rIa9mdbpqN {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-rIa9mdbpqN .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rIa9mdbpqN .section-text {
+  padding: 2rem 0;
+}
+.cid-rIa9mdbpqN .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rIa9mdbpqN .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rIaacxU6Gz {
+  background: #0f7699;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #cc2952, #0f7699);
+}
+.cid-rIaacxU6Gz .image-block {
+  margin: auto;
+}
+.cid-rIaacxU6Gz figcaption {
+  position: relative;
+}
+.cid-rIaacxU6Gz figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rIaacxU6Gz .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rIaaer4hSx {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-rIaaer4hSx .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rIaaer4hSx .section-text {
+  padding: 2rem 0;
+}
+.cid-rIaaer4hSx .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rIaaer4hSx .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rIaadiK3RP {
+  background: #0f7699;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #cc2952, #0f7699);
+}
+.cid-rIaadiK3RP .image-block {
+  margin: auto;
+}
+.cid-rIaadiK3RP figcaption {
+  position: relative;
+}
+.cid-rIaadiK3RP figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rIaadiK3RP .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rIaafdli3h {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-rIaafdli3h .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rIaafdli3h .section-text {
+  padding: 2rem 0;
+}
+.cid-rIaafdli3h .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rIaafdli3h .inner-container {
+    width: 100% !important;
+  }
 }
